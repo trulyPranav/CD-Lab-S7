@@ -70,4 +70,4 @@ int main()
 
 ## Output
 
-![Exp 2 output](./Exp_2_output.png)
+![Exp 2 output](./Exp_2_ouput.png)
