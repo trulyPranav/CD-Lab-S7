@@ -1,4 +1,4 @@
-# Compiler Lab Experiment 1
+# Compiler Lab Experiment 2
 
 Aim: Write a program to convert NFA with ε transitions to NFA without ε transitions.
 
